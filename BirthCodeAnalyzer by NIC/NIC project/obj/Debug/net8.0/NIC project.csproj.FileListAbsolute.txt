@@ -1,0 +1,43 @@
+C:\Users\lap.lk\source\repos\NIC project\NIC project\bin\Debug\net8.0\NIC project.exe
+C:\Users\lap.lk\source\repos\NIC project\NIC project\bin\Debug\net8.0\NIC project.deps.json
+C:\Users\lap.lk\source\repos\NIC project\NIC project\bin\Debug\net8.0\NIC project.runtimeconfig.json
+C:\Users\lap.lk\source\repos\NIC project\NIC project\bin\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\source\repos\NIC project\NIC project\bin\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfoInputs.cache
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfo.cs
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\refint\NIC project.dll
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\NIC project.genruntimeconfig.cache
+C:\Users\lap.lk\source\repos\NIC project\NIC project\obj\Debug\net8.0\ref\NIC project.dll
+C:\Users\lap.lk\Desktop\NIC project\NIC project\bin\Debug\net8.0\NIC project.exe
+C:\Users\lap.lk\Desktop\NIC project\NIC project\bin\Debug\net8.0\NIC project.deps.json
+C:\Users\lap.lk\Desktop\NIC project\NIC project\bin\Debug\net8.0\NIC project.runtimeconfig.json
+C:\Users\lap.lk\Desktop\NIC project\NIC project\bin\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\Desktop\NIC project\NIC project\bin\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfoInputs.cache
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfo.cs
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\refint\NIC project.dll
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\NIC project.genruntimeconfig.cache
+C:\Users\lap.lk\Desktop\NIC project\NIC project\obj\Debug\net8.0\ref\NIC project.dll
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\bin\Debug\net8.0\NIC project.exe
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\bin\Debug\net8.0\NIC project.deps.json
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\bin\Debug\net8.0\NIC project.runtimeconfig.json
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\bin\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\bin\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfoInputs.cache
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.AssemblyInfo.cs
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.csproj.CoreCompileInputs.cache
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.sourcelink.json
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.dll
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\refint\NIC project.dll
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.pdb
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\NIC project.genruntimeconfig.cache
+C:\Users\lap.lk\Documents\GitHub\BirthCodeAnalyzer-by-NIC\BirthCodeAnalyzer by NIC\NIC project\obj\Debug\net8.0\ref\NIC project.dll
