@@ -94,7 +94,7 @@ namespace NIC_project
 
         private void CalculateBirthDetails(int year, int totalDate)
         {
-            if (totalDate > 60)
+            if ((year % 4 != 0)&&(totalDate>60))
             {
                 totalDate -= 1;
             }
